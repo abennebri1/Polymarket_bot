@@ -1,0 +1,7 @@
+reports/
+.wallet_cache/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.csv
